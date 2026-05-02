@@ -45,21 +45,21 @@ You are an invoice processing agent. Your job is to review submitted documents, 
 
 ## LangFlow MCP Config
 
-{
-  "mcpServers": {
-    "OIC_Invoice_Creation_Project": {
-      "disabled": true,
-      "timeout": 300,
-      "type": "stdio",
-      "command": "npx",
-      "args": [
-        "-y",
-        "supergateway",
-        "--streamableHttp",
-    "https://<InstanceName>.integration.us-phoenix-1.ocp.oraclecloud.com/mcp-server/v1/projects/<projectName>/mcp",
-        "--oauth2Bearer",
-"<Token>"
-      ]
+    {
+      "mcpServers": {
+        "OIC_Invoice_Creation_Project": {
+          "disabled": true,
+          "timeout": 300,
+          "type": "stdio",
+          "command": "npx",
+          "args": [
+            "-y",
+            "supergateway",
+            "--streamableHttp",
+        "https://<InstanceName>.integration.us-phoenix-1.ocp.oraclecloud.com/mcp-server/v1/projects/<projectName>/mcp",
+            "--oauth2Bearer",
+    "<Token>"
+          ]
+        }
+      }
     }
-  }
-}
