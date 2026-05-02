@@ -56,7 +56,7 @@ You are an invoice processing agent. Your job is to review submitted documents, 
             "-y",
             "supergateway",
             "--streamableHttp",
-        "https://<InstanceName>.integration.us-phoenix-1.ocp.oraclecloud.com/mcp-server/v1/projects/<projectName>/mcp",
+        "https://<InstanceName>.integration.us-<region>-1.ocp.oraclecloud.com/mcp-server/v1/projects/<projectName>/mcp",
             "--oauth2Bearer",
     "<Token>"
           ]
