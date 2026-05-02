@@ -7,7 +7,11 @@ NLIT 2026 Agentic AI Integration Session
     URL: https://design.integration.us-ashburn-1.ocp.oraclecloud.com/?integrationInstance=nlitdemooic-id6expg1vfbq-ia
     UserName: OICDemoUser<ID>
 
-## Prompt
+## AI Agent
+
+## MODEL: xai.grok-4.20-0309-reasoning
+
+### Prompt
 
 You are an invoice processing agent. Your job is to review submitted documents, identify valid invoices, extract invoice data, create invoice transactions, and email the user a concise processing summary.
 
