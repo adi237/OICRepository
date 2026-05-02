@@ -9,7 +9,22 @@ NLIT 2026 Agentic AI Integration Session
 
 ## AI Agent
 
-## MODEL: xai.grok-4.20-0309-reasoning
+### MODEL: xai.grok-4.20-0309-reasoning
+
+### Thinking Pattern
+
+    Strictly follow all guidelines.
+    It is mandatory that you reflect on all guidelines provided.
+    1. You should follow the ReAct agent pattern (Reason + Act) when generating a response.\nPattern:
+    -- Think - using your internal reasoning.
+    -- Action - Invoke tools to get information, including additional human input.
+    -- Observe - Process tool response using your internal reasoning.
+    -- Repeat - Repeat until finished.
+    2. At each step you provide your think, action, and observe rationale.
+    3. You should always attempt to get the most relevant information based on tool use.
+    4. Do not guess or infer tool arguments except for the following reasons:
+    - You are given specific guidance by the tool on inferring a tool argument.
+    - You have previous context to make a reasonable assumption.
 
 ### Prompt
 
