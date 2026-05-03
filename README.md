@@ -11,22 +11,22 @@ NLIT 2026 Agentic AI Integration Session
 ## LAB SETUP:
 
 ### 1) Open the top left hamburger menu, navigate to "Projects". Click on the three dots for "NLIT_DO_NOT_MODIFY" project and clone with a unique name.
-### 2) Configure ATP Adapter
+### 2) Configure the AnalyticsDB Connection
  1) "Use a shared connection", search for "AnalyticsDB".
- 2) Save.
+ 2) Save and go back.
 ### 3) Navigate to "AI Agents" (2nd tab on the left). Under tools, navigate to "EmailSummary" tool. Scroll down to see the parameters and for "emailAddress", in the default value enter your own email, Save and then back. This will enable you to receive a summary of the document processing on your email address.
 ### 4) Activate
  1) Activate the "Financial Thinking Pattern OCI Gen AI" by clicking the 3 dots and activate.
- 2) Click on "Deploy" from the top tabs. 
+ 2) Click on "Deploy" from the top left tabs. 
  3) Hover over the 26.4.0, click the power on button on the right side.
- 4) Select "Audit" and "Activate"
+ 4) Select "Audit" and "Activate".
  5) Click on small refresh icon (top right) till you see status as "all active".
 ### 5) Run
- 1) Click on "Design".
+ 1) Click on "Design" from the top left tabs.
  2) Navigate to "AI Agents" (2nd tab on the left).
  3) Click on the 3 dots next to "Invoice Agent OCI Gen AI Long" and then "Run"
  4) Type in the prompt "Process all documents in the invoices folder."
- 5) Run (Paper plane icon)
+ 5) Run (Paper plane icon).
 ### 6) Observe
  1) Click the small refresh icon on the top right to see more logs.
    or
