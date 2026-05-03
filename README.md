@@ -5,7 +5,7 @@ NLIT 2026 Agentic AI Integration Session
 
  ### NAME: NLITDemoOIC
  ### URL: https://design.integration.us-ashburn-1.ocp.oraclecloud.com/?integrationInstance=nlitdemooic-id6expg1vfbq-ia
- ### UserName: OICDemoUser<ID>
+ ### UserName: OICDemoUser#
 
 
 ## LAB SETUP:
