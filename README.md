@@ -26,6 +26,8 @@ NLIT 2026 Agentic AI Integration Session
  2) Click back and in the top tabs click "observe", then instances. Here you can see all integrations invoked by the agents.
  3) Then navigate to "AI Agents" (2nd tab on the left).
  4) Hover over the Agent instance and on the right click the eye icon to see more logs.
+    
+-----------------------------------------------------------------
 
 ## OIC INSTANCE DETAILS:
 
