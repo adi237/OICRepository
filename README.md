@@ -5,8 +5,8 @@ NLIT 2026 Agentic AI Integration Session
 
 1) Clone Existing NLIT_DO_NOT_MODIFY Project with unique name.
 2) Configure ATP Adapter
-       1) "Use a shared connection", search for "AnalyticsDB".
-       2) Save.
+ 1) "Use a shared connection", search for "AnalyticsDB".
+ 2) Save.
 3) Navigate to "AI Agents" (2nd tab on the left). Under tools, navigate to "EmailSummary" tool. Scroll down to see the parameters and for "emailAddress", in the default value enter your own email, Save and then back. This will enable you to receive a summary of the document processing on your email address.
 4) Activate
        1) Activate the "Financial Thinking Pattern OCI Gen AI" by clicking the 3 dots and activate.
