@@ -10,7 +10,7 @@ NLIT 2026 Agentic AI Integration Session
 
 ## LAB SETUP:
 
-### 1) Navigate to "Projects" and Clone existing NLIT_DO_NOT_MODIFY project with unique name.
+### 1) Open the top left hamburger menu, navigate to "Projects". Click on the three dots for "NLIT_DO_NOT_MODIFY" project and clone with a unique name.
 ### 2) Configure ATP Adapter
  1) "Use a shared connection", search for "AnalyticsDB".
  2) Save.
